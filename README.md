@@ -1,2 +1,2 @@
 # javascript_course
-Exercices javascript 
+Exercices javascript pmn 
