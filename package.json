@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Exercices javascript pmn",
+  "main": "exo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "scanf": "^1.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taha2fly/javascript_course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taha2fly/javascript_course/issues"
+  },
+  "homepage": "https://github.com/taha2fly/javascript_course#readme"
+}
